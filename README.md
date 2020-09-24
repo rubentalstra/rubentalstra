@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ![RubenYalstra's github stats](https://github-readme-stats.vercel.app/api?username=rubentalstra&show_icons=true&hide_border=true)
 
