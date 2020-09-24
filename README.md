@@ -2,7 +2,7 @@
 
 
 ![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubentalstra&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubentalstra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubentalstra&layout=compacthide_border=true)
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
