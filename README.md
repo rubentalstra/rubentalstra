@@ -8,7 +8,7 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rubentalstra&repo=)
 -->
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubentalstra&" alt="rubentalstra" /></p>
 
 <!-- Actual text -->
 
