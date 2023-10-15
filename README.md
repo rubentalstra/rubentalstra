@@ -39,7 +39,7 @@ __Check out my GitHub repository:__
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubentalstra" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubentalstra&layout=compact&hide_border=true" alt="top-langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubentalstra&hide=hack&layout=compact&hide_border=true" alt="top-langs" />
     <img src="https://github-readme-stats.vercel.app/api?username=rubentalstra&show_icons=true&hide_border=true" alt="show_icons" />
 
 
