@@ -20,6 +20,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/Caeli-technologies/rotary_nl_rye">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caeli-technologies&repo=rotary_nl_rye" alt="GitHub Stats" />
     </a>
+        <a href="https://github.com/rubentalstra/CampusEngage">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubentalstra&repo=CampusEngage" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
