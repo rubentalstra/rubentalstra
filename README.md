@@ -1,64 +1,82 @@
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/rubentalstra/rubentalstra/refs/heads/master/wave.gif" width="30px">, I'm Ruben</h1>
+<h3 align="center">🚀 Passionate Software Engineering Student | Mobile App Developer</h3>
+<h3 align="center">📍 Northern Netherlands</h3>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruben</h1>
-<h2 align="center">I am studying Software Engineering in northern Netherlands In my spare time, I like to develop mobile apps.</h3>
-
-
-
-<h2>💻 I'm Currently working on</h2>
-
-- 🌱 I’m currently learning **Rust**
-- Software Engineering
-
-
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/pterodactyl-app/Pterodactyl-app">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pterodactyl-app&repo=Pterodactyl-app" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Caeli-technologies/rotary_nl_rye">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caeli-technologies&repo=rotary_nl_rye" alt="GitHub Stats" />
-    </a>
-        <a href="https://github.com/rubentalstra/BAK">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubentalstra&repo=BAK" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rubentalstra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubentalstra" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/rubentalstra/rubentalstra/blob/main/assets/code-gif.gif" width="300px"/>
 </p>
 
-<h2>👀 Stats</h2>
+---
 
-<div>
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubentalstra" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubentalstra&hide=hack&layout=compact&hide_border=true" alt="top-langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rubentalstra&show_icons=true&hide_border=true" alt="show_icons" />
+### 👨‍💻 About Me
 
+- 🧑‍🎓 I'm studying **Software Engineering** in the northern Netherlands.
+- 🚀 I love developing **mobile apps** in my spare time, especially using Flutter.
+- 💡 Currently learning **Rust** to expand my toolkit.
+- 📱 Creator of apps that make everyday tasks fun and engaging!
 
-  </p>
+---
+
+### 💻 What I'm Working On
+
+- 🌱 I’m diving into the world of **Rust** and exploring new mobile app ideas.
+- 💼 Building cool projects like **Pterodactyl-app** and **BAK**, my app for managing drink debts for student associations.
+
+Check out some of my latest projects:
+
+<div align="center">
+  <a href="https://github.com/pterodactyl-app/Pterodactyl-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pterodactyl-app&repo=Pterodactyl-app&theme=light" alt="Pterodactyl App" />
+  </a>
+  <a href="https://github.com/Caeli-technologies/rotary_nl_rye">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caeli-technologies&repo=rotary_nl_rye&theme=light" alt="Rotary NL Rye" />
+  </a>
+  <a href="https://github.com/rubentalstra/BAK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubentalstra&repo=BAK&theme=light" alt="BAK App" />
+  </a>
 </div>
 
+---
 
+### 🤝 Let's Connect!
 
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/rubentalstra/)
+- 🐦 Or follow me on [Twitter](https://twitter.com/R_Talstra) for updates and tech thoughts!
 
-<!-- Actual text -->
+<p align="left">
+  <a href="https://linkedin.com/in/rubentalstra/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/R_Talstra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+---
 
-<!-- Icons -->
+### ⚡ GitHub Stats & Activity
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<div align="center">
+  <p><b>🔥 GitHub Streak:</b></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubentalstra&theme=light" alt="GitHub Streak" />
 
-<!-- Links to your social media accounts -->
+  <p><b>🚀 My Activity:</b></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rubentalstra&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubentalstra&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
+</div>
 
-[1]: https://twitter.com/R_Talstra
-[2]: https://www.linkedin.com/in/rubentalstra/
+---
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+#### ⚡ Fun fact: I love combining coding with a good coffee break! ☕
