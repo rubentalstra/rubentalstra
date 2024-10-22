@@ -3,7 +3,7 @@
 <h3 align="center">📍 Northern Netherlands</h3>
 
 <p align="center">
-  <img src="https://github.com/rubentalstra/rubentalstra/blob/main/assets/code-gif.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
 </p>
 
 ---
