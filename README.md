@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Ruben Talstra</h1>
-<h3 align="center">🚀 Passionate Software Engineering Student | Mobile App Developer</h3>
+<h3 align="center">🚀 Passionate Software Engineering | Mobile App Developer</h3>
 <h3 align="center">📍 Northern Netherlands</h3>
 
 
@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a **Software Engineering** student based in the northern Netherlands.
+- 🎓 I'm a **Software Engineering** based in the northern Netherlands.
 - 💻 I specialize in developing **mobile apps** using **Flutter**.
 - 🦀 Currently diving deep into **Rust** to broaden my programming horizons.
 - 🎨 I love creating apps that make everyday tasks **fun and engaging**.
