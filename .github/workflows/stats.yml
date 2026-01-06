@@ -25,8 +25,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          username: rubentalstra
-          options: "show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=default"
+          options: "username=rubentalstra&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=default"
           path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,8 +33,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          username: rubentalstra
-          options: "hide_border=true&layout=compact&langs_count=6&theme=default"
+          options: "username=rubentalstra&hide_border=true&layout=compact&langs_count=6&theme=default"
           path: languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,8 +41,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          username: rubentalstra
-          options: "repo=Trial-Submission-Studio&hide_border=true&show_owner=true&theme=default"
+          options: "username=rubentalstra&repo=Trial-Submission-Studio&hide_border=true&show_owner=true&theme=default"
           path: pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -53,9 +50,7 @@ jobs:
           curl -o streak.svg "https://streak-stats.demolab.com/?user=rubentalstra&hide_border=true&theme=default"
 
       - name: Commit and Push
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add stats.svg languages.svg pin.svg streak.svg
-          git diff --staged --quiet || git commit -m "Update stats"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update stats"
+          file_pattern: "stats.svg languages.svg pin.svg streak.svg"
