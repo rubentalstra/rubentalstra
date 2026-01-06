@@ -1,0 +1,57 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=default"
+          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "hide_border=true&layout=compact&langs_count=6&theme=default"
+          path: languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Pin Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: "repo=Trial-Submission-Studio&hide_border=true&show_owner=true&theme=default"
+          path: pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Streak Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: streak
+          options: "hide_border=true&theme=default"
+          path: streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add stats.svg languages.svg pin.svg streak.svg
+          git diff --staged --quiet || git commit -m "Update stats"
+          git push
