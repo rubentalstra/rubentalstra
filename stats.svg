@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ruben Talstra's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 46, Total Commits  (last year) : 522, Total PRs: 363, Total Issues: 117, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 47, Total Commits  (last year) : 528, Total PRs: 365, Total Issues: 118, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.06042265907314;
+        stroke-dashoffset: 60.414501783543365;
       }
     }
   
@@ -137,7 +137,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >46</text>
+      >47</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -152,7 +152,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >522</text>
+      >528</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -167,7 +167,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >363</text>
+      >365</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -182,7 +182,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >117</text>
+      >118</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
