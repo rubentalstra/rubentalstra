@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ruben Talstra's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 800, Total PRs: 439, Total Issues: 299, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 60, Total Commits  (last year) : 834, Total PRs: 439, Total Issues: 299, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 49.14856238860036;
+        stroke-dashoffset: 48.41807010599652;
       }
     }
   
@@ -137,7 +137,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >59</text>
+      >60</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -152,7 +152,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >800</text>
+      >834</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
